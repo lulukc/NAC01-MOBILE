@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
             case R.id.ebay:
                 url = "https://www.ebay.com/";
                 break;
-            case R.id.Webmotors:
+            case R.id.webmotors:
                 url = "https://www.webmotors.com.br/";
                 break;
             case R.id.magalu:
@@ -43,12 +43,6 @@ public class MainActivity extends AppCompatActivity {
                 break;
             case R.id.netshoes:
                 url = "https://www.netshoes.com.br/";
-                break;
-            case R.id.americanas:
-                url = "https://www.americanas.com.br/";
-                break;
-            case R.id.submarino:
-                url = "https://www.submarino.com.br/";
                 break;
             default:
                 url = null;

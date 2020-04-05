@@ -10,11 +10,12 @@
         android:id="@+id/sobreView"
         android:layout_width="150dp"
         android:layout_height="wrap_content"
-        android:text="App Portais Aluno Lucas Amancio"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="214dp"
+        android:layout_marginTop="214dp"
+        android:text="App Portais Aluno Lucas Amancio RM-81978"
         android:textAlignment="center"
         android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
         tools:ignore="MissingConstraints" />
 </androidx.constraintlayout.widget.ConstraintLayout>
